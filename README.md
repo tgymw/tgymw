@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://www.tgymw.com">
-    <img src="https://img.shields.io/badge/🌐%20官网-tgymw.com-0078D4?style=flat-square&logo=googlechrome"/>
+    <img src="https://img.shields.io/badge/🌐%20官网-www.tgymw.com-0078D4?style=flat-square&logo=googlechrome"/>
   </a>
   <a href="https://t.me/tgymw">
     <img src="https://img.shields.io/badge/✈️%20Telegram-在线咨询-26A5E4?style=flat-square&logo=telegram"/>
